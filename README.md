@@ -11,7 +11,7 @@
 - 🏫 Computer Science Student at Serang Raya Univeristy
 
 <ul>
-  <li><p>🏝️ I'm currently learning <b>Golang, MongoDB, ReactJS</b></p></li>
+  <li><p>🏝️ I'm currently learning <b>Golang and MongoDB</b></p></li>
   <li><span>📬 How to reach me : </span><a href="https://yusrililham62@gmail.com">yusrililham62@gmail.com</a></li>
 </ul>
 
