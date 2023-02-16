@@ -1,11 +1,12 @@
-### Hi There, <br>I'm Yusril Ilham 👋
-### Back End Web Developer (soon)
+# Hi There, I'm Yusril Ilham 👋
+## Back End Web Developer (soon)
+![](https://visitor-badge.laobi.icu/badge?page_id=yusrililhm.yusrililhm) [![Github](https://img.shields.io/github/followers/yusrililhm?label=Follow&style=social)](https://github.com/yusrililhm)
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/043/790/995/original/ikasul-1kk0-finger-spin-haibara.gif?1638273994" width="300" height="300">
 </p>
 
-### About Me
+## About Me
 - 👨🏻‍💼 I'm Yusril Ilham Kholid
 - 🏠 Live in Cilegon, Indonesia
 - 🏫 Computer Science Student at Serang Raya University
@@ -15,7 +16,7 @@
   <li><span>📬 How to reach me : </span><a href="https://yusrililham62@gmail.com">yusrililham62@gmail.com</a></li>
 </ul>
 
-### Basic Skills
+## Basic Skills
 <div display="flex">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50">
@@ -25,7 +26,9 @@
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="50">
 </div>
 
-### Credits
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusrililhm&theme=dracula)](https://github.com/yusrililhm/github-readme-stats)
+
+## Credits
 <ul>
   <li><a href="">Haibara Ai Gif</a></li>
   <li><a href="https://www.flaticon.com/free-icons/web">Icon</a></li>
