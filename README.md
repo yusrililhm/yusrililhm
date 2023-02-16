@@ -8,7 +8,7 @@
 ### About Me
 - 👨🏻‍💼 I'm Yusril Ilham Kholid
 - 🏠 Live in Cilegon, Indonesia
-- 🏫 Computer Science Student at Serang Raya Univeristy
+- 🏫 Computer Science Student at Serang Raya University
 
 <ul>
   <li><p>🏝️ I'm currently learning <b>Golang and MongoDB</b></p></li>
