@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=yusrililhm.yusrililhm) [![Github](https://img.shields.io/github/followers/yusrililhm?label=Follow&style=social)](https://github.com/yusrililhm)
 
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/043/790/995/original/ikasul-1kk0-finger-spin-haibara.gif?1638273994" width="300" height="300">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/043/790/995/original/ikasul-1kk0-finger-spin-haibara.gif?1638273994" width="290" height="290">
 </p>
 
 ## About Me
