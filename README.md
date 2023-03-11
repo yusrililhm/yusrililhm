@@ -26,7 +26,10 @@
 </div>
 <br><br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusrililhm&hide=html,css&theme=dracula)](https://github.com/yusrililhm/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrililhm&theme=radical&layout=compact" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusrililhm&theme=radical&show_icons=true" height="180">
+</div>
 
 ## Credits
 <ul>
