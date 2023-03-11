@@ -26,8 +26,6 @@
 </div>
 <br><br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusrililhm&theme=dracula)](https://github.com/yusrililhm/github-readme-stats)
-
 ## Credits
 <ul>
   <li><a href="">Haibara Ai Gif</a></li>
