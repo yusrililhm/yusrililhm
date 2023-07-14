@@ -28,7 +28,7 @@
 
 ## Stats
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrililhm&theme=radical&layout=compact&hide=html,javascript,css" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrililhm&theme=radical&layout=compact&hide=html,css,php,dart,hack" height="150">
 </div>
 
 ## Credits
