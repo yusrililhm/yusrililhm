@@ -12,7 +12,7 @@
 - 🏫 Computer Science Student at Serang Raya University
 
 <ul>
-  <li><p>🏝️ I'm currently learning <b>Golang</b></p></li>
+  <li><p>🏝️ I'm currently learning <b>Java</b></p></li>
   <li><span>📬 How to reach me : </span><a href="https://yusrililham62@gmail.com">yusrililham62@gmail.com</a></li>
 </ul>
 
@@ -29,7 +29,6 @@
 ## Stats
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrililhm&theme=radical&layout=compact&hide=html,javascript,css" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusrililhm&theme=radical&show_icons=true" height="150">
 </div>
 
 ## Credits
