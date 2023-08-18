@@ -12,7 +12,7 @@
 - 🏫 Computer Science Student at Serang Raya University
 
 <ul>
-  <li><p>🏝️ I'm currently learning <b>Java</b></p></li>
+  <li><p>🏝️ I'm currently learning <b>Golang</b></p></li>
   <li><span>📬 How to reach me : </span><a href="https://yusrililham62@gmail.com">yusrililham62@gmail.com</a></li>
 </ul>
 
@@ -21,7 +21,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50">
 <img src="https://img.icons8.com/color/256/golang.png" width="50">
-<img src="https://img.icons8.com/color/256/tailwindcss.png" width="50">
 <img src="https://img.icons8.com/fluency/256/mysql-logo.png" width="50">
 </div>
 <br><br>
