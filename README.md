@@ -10,6 +10,7 @@
 - 👨🏻‍💼 I'm Yusril Ilham Kholid
 - 🏠 Live in Cilegon, Indonesia
 - 🏫 Computer Science Student at Serang Raya University
+- 🏢 MSIB x Hacktiv8 Student Batch 5
 
 <ul>
   <li><p>🏝️ I'm currently learning <b>Golang</b></p></li>
