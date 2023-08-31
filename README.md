@@ -26,11 +26,6 @@
 </div>
 <br><br>
 
-## Stats
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusrililhm&theme=radical&layout=compact&hide=html,css,php,dart,hack" height="150">
-</div>
-
 ## Credits
 <ul>
   <li><a href="">Haibara Ai Gif</a></li>
